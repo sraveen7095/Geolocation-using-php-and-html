@@ -30,25 +30,8 @@
 - In your browser run the localhost at port 8080/8000 you will view the result
 ### Clone
 
-- Clone this repo to your local machine using `https://github.com/sraveen7095/Golang-Upload-File.git`
+- Clone this repo to your local machine using `https://github.com/sraveen7095/Geolocation-using-php-and-html.git`
 
-### Setup
-
-
-
-> Import the packages first
-
-```shell
-
-html/template
-io
-```
-
-> now run your main file i.e, main.go
-
-```shell
-$ go run main.go
-```
 
 
 
